@@ -11,7 +11,6 @@ int main(){
     cin >> n;
 
     int matriz[100][100];
-    int suma = 0;
 
     cout << "Ingrese los elementos de la matriz:\n";
     for (int i = 0; i < m; i++) {
